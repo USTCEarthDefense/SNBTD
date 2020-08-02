@@ -1,6 +1,6 @@
 # SNBTD
 
-This is our implementation for the paper [_Streaming Nonlinear Bayesian Tensor Decomposition_](http://www.auai.org/uai2020/proceedings/210_main_paper.pdf).
+This is our implementation for the paper [_Streaming Nonlinear Bayesian Tensor Decomposition_](http://www.auai.org/uai2020/proceedings/210_main_paper.pdf), by Zhimeng Pan, Zheng Wang, Shandian Zhe @  The Conference on Uncertainty in Artificial Intelligence (UAI), 2020
 
 # Data Set and Models
 
