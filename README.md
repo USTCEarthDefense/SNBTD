@@ -4,7 +4,7 @@ This is our implementation for the paper [_Streaming Nonlinear Bayesian Tensor D
 
 # Data Set and Models
 
-All data sets ( including train/test split) we used in the paper reside in the ./data folder, which could be loaded using functions in data_loader.py. 
+All data sets ( including train/test split) we used in the paper reside in the ./data folder, which could be loaded using functions in ./code/data_loader.py. 
 
 We provide code for our proposed algorithm, SNBTD, along with two other baseline methods SSGP-NTD and SVB-NTD. For code for POST see https://github.com/yishuaidu/POST.
 
