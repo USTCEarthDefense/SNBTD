@@ -1,0 +1,54 @@
+
+
+Sun Aug  2 12:08:37 2020
+data set = dblp
+model config:
+{'elem_sizes': [10000, 200, 10000], 'learning_rate': 0.001, 'init_method': 'he_normal', 'rank': 5, 'num_pseudo_points': 128, 'batch_size': 256, 'num_iters_per_batch': 50, 'N_data_points': 310370, 'init_batch_size': 2048}
+batch = 60, progress = 4.95, test_acc = 0.73888, test_auc = 0.805515, ave_llk = -0.62847
+batch = 120, progress =  9.9, test_acc = 0.70311, test_auc = 0.80477, ave_llk = -0.746288
+batch = 180, progress = 14.9, test_acc = 0.70612, test_auc = 0.814793, ave_llk = -0.730379
+batch = 240, progress = 19.8, test_acc = 0.71731, test_auc = 0.799794, ave_llk = -0.750401
+batch = 300, progress = 24.8, test_acc = 0.70186, test_auc = 0.821214, ave_llk = -0.800617
+batch = 360, progress = 29.7, test_acc = 0.74733, test_auc = 0.829791, ave_llk = -0.704175
+batch = 420, progress = 34.7, test_acc = 0.7269, test_auc = 0.814431, ave_llk = -0.759169
+batch = 480, progress = 39.6, test_acc = 0.71826, test_auc = 0.823003, ave_llk = -0.724669
+batch = 540, progress = 44.6, test_acc = 0.74466, test_auc = 0.825897, ave_llk = -0.677718
+batch = 600, progress = 49.5, test_acc = 0.73333, test_auc = 0.826675, ave_llk = -0.681823
+batch = 660, progress = 54.5, test_acc = 0.74673, test_auc = 0.836555, ave_llk = -0.658932
+batch = 720, progress = 59.4, test_acc = 0.71866, test_auc = 0.857446, ave_llk = -0.818582
+batch = 780, progress = 64.4, test_acc = 0.75903, test_auc = 0.857534, ave_llk = -0.694055
+batch = 840, progress = 69.3, test_acc = 0.75465, test_auc = 0.842789, ave_llk = -0.772099
+batch = 900, progress = 74.3, test_acc = 0.7838, test_auc = 0.862286, ave_llk = -0.626074
+batch = 960, progress = 79.2, test_acc = 0.78904, test_auc = 0.837431, ave_llk = -0.522266
+batch = 1020, progress = 84.2, test_acc = 0.74703, test_auc = 0.860438, ave_llk = -0.716868
+batch = 1080, progress = 89.1, test_acc = 0.7761, test_auc = 0.870844, ave_llk = -0.609491
+batch = 1140, progress = 94.1, test_acc = 0.78462, test_auc = 0.870744, ave_llk = -0.648526
+batch = 1200, progress =   99, test_acc = 0.79344, test_auc = 0.865761, ave_llk = -0.565333
+batch = 1212, progress =  100, test_acc = 0.83398, test_auc = 0.866045, ave_llk = -0.494527
+
+
+Sun Aug  2 12:53:53 2020
+data set = dblp
+model config:
+{'elem_sizes': [10000, 200, 10000], 'learning_rate': 0.001, 'init_method': 'he_normal', 'rank': 5, 'num_pseudo_points': 128, 'batch_size': 256, 'num_iters_per_batch': 100, 'N_data_points': 310370, 'init_batch_size': 2048}
+batch = 60, progress = 4.95, test_acc = 0.6639, test_auc = 0.770393, ave_llk = -1.02528
+batch = 120, progress =  9.9, test_acc = 0.71899, test_auc = 0.797339, ave_llk = -0.736848
+batch = 180, progress = 14.9, test_acc = 0.69563, test_auc = 0.807115, ave_llk = -0.874883
+batch = 240, progress = 19.8, test_acc = 0.72043, test_auc = 0.819825, ave_llk = -0.934234
+batch = 300, progress = 24.8, test_acc = 0.75542, test_auc = 0.808463, ave_llk = -0.808423
+batch = 360, progress = 29.7, test_acc = 0.73977, test_auc = 0.829218, ave_llk = -0.922445
+batch = 420, progress = 34.7, test_acc = 0.73967, test_auc = 0.833488, ave_llk = -0.974475
+batch = 480, progress = 39.6, test_acc = 0.6701, test_auc = 0.820425, ave_llk = -1.18368
+batch = 540, progress = 44.6, test_acc = 0.73936, test_auc = 0.841874, ave_llk = -1.07813
+batch = 600, progress = 49.5, test_acc = 0.68048, test_auc = 0.820129, ave_llk = -1.23985
+batch = 660, progress = 54.5, test_acc = 0.70457, test_auc = 0.839373, ave_llk = -1.18488
+batch = 720, progress = 59.4, test_acc = 0.74569, test_auc = 0.835072, ave_llk = -0.973691
+batch = 780, progress = 64.4, test_acc = 0.71782, test_auc = 0.822414, ave_llk = -1.25045
+batch = 840, progress = 69.3, test_acc = 0.72451, test_auc = 0.820948, ave_llk = -1.02588
+batch = 900, progress = 74.3, test_acc = 0.7358, test_auc = 0.831629, ave_llk = -1.1315
+batch = 960, progress = 79.2, test_acc = 0.79554, test_auc = 0.846935, ave_llk = -0.908188
+batch = 1020, progress = 84.2, test_acc = 0.73923, test_auc = 0.831099, ave_llk = -1.23966
+batch = 1080, progress = 89.1, test_acc = 0.69669, test_auc = 0.842609, ave_llk = -1.30805
+batch = 1140, progress = 94.1, test_acc = 0.77901, test_auc = 0.845822, ave_llk = -0.978749
+batch = 1200, progress =   99, test_acc = 0.75928, test_auc = 0.851852, ave_llk = -0.989605
+batch = 1212, progress =  100, test_acc = 0.69546, test_auc = 0.847143, ave_llk = -1.54774

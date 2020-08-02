@@ -1,0 +1,27 @@
+
+
+Sun Aug  2 10:38:08 2020
+data set = movie_lens_1M
+model config:
+{'elem_sizes': [6040, 3706], 'learning_rate': 0.001, 'init_method': 'he_normal', 'rank': 5, 'num_pseudo_points': 128, 'batch_size': 256, 'num_iters_per_batch': 50, 'N_data_points': 900189, 'init_batch_size': 2048}
+batch = 175, progress = 4.98, rmse = 1.10258, mse= 1.21569, test_llk = -1.71142
+batch = 350, progress = 9.95, rmse = 1.10045, mse= 1.211, test_llk = -1.67314
+batch = 525, progress = 14.9, rmse = 1.06873, mse= 1.14219, test_llk = -1.61018
+batch = 700, progress = 19.9, rmse = 1.06869, mse= 1.14211, test_llk = -1.6264
+batch = 875, progress = 24.9, rmse = 1.03894, mse= 1.07939, test_llk = -1.55229
+batch = 1050, progress = 29.9, rmse = 1.02348, mse= 1.0475, test_llk = -1.50367
+batch = 1225, progress = 34.8, rmse = 1.03214, mse= 1.06531, test_llk = -1.5112
+batch = 1400, progress = 39.8, rmse = 1.01555, mse= 1.03134, test_llk = -1.4853
+batch = 1575, progress = 44.8, rmse = 1.002, mse= 1.004, test_llk = -1.46724
+batch = 1750, progress = 49.8, rmse = 1.0296, mse= 1.06008, test_llk = -1.52679
+batch = 1925, progress = 54.7, rmse = 1.01256, mse= 1.02527, test_llk = -1.47785
+batch = 2100, progress = 59.7, rmse = 1.00234, mse= 1.00469, test_llk = -1.47469
+batch = 2275, progress = 64.7, rmse = 0.996238, mse= 0.992491, test_llk = -1.45755
+batch = 2450, progress = 69.7, rmse = 1.00635, mse= 1.01274, test_llk = -1.46523
+batch = 2625, progress = 74.7, rmse = 1.00766, mse= 1.01539, test_llk = -1.4668
+batch = 2800, progress = 79.6, rmse = 0.987544, mse= 0.975244, test_llk = -1.44241
+batch = 2975, progress = 84.6, rmse = 0.993202, mse= 0.986451, test_llk = -1.45797
+batch = 3150, progress = 89.6, rmse = 1.00247, mse= 1.00494, test_llk = -1.453
+batch = 3325, progress = 94.6, rmse = 0.982686, mse= 0.965672, test_llk = -1.42905
+batch = 3500, progress = 99.5, rmse = 0.984666, mse= 0.969567, test_llk = -1.43065
+batch = 3516, progress =  100, rmse = 0.992167, mse= 0.984395, ave_llk = -1.45482
